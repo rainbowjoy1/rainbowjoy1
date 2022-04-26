@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @rainbowjoy1
-- 👀 I’m interested in data science, data ethics, and data privacy
-- 🌱 I’m currently learning matplot and pycharm
-- 📫 How to reach me> check out my website!
+🧋 Hi, I’m Danielle
+🪅 I'm using my GitHUb to track my progress as a Master's in Data Science student at Copenhagen Business School
+🦭 Send as email to say hi!
 
 <!---
 rainbowjoy1/rainbowjoy1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
