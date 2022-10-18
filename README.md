@@ -1,6 +1,6 @@
 - 🧋 Hi, I’m Danielle
-- 🪅 I'm using my GitHub to track my progress as a Master's in Data Science student at Copenhagen Business School
-- 🦭 Send as email to say hi!
+- 🪅 This is my messy page of homework, personal projects, work, and exams. 
+- 🦭 Send an email to say hi!
 
 <!---
 rainbowjoy1/rainbowjoy1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
